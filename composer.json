@@ -3,7 +3,7 @@
     "description":"Phpdocumentor phar repo",
     "authors":[
         {
-            "name":"Peter Youell",
+            "name":"Peter Youell"
         }
     ],
     "bin": [
