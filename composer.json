@@ -1,15 +1,11 @@
 {
-    "name":"pyouell/testthis",
+    "name":"codethis/phpdocumentorphar",
     "description":"Phpdocumentor phar repo",
     "authors":[
         {
             "name":"Peter Youell",
-            "email":"mail@{firstname}-{lastname}.de"
         }
     ],
-    "require":{
-        "magento-hackathon/magento-composer-installer":"*"
-    },
     "bin": [
         "phpDocumentor.phar"
     ]
